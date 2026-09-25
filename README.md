@@ -3,6 +3,7 @@
 Sistema web para comparar os preços de etanol e gasolina e descobrir qual combustível está mais vantajoso.
 
 🌐 Acesse a aplicação: https://rafael-cobra-flex.onrender.com/
+<br>
 ![Static Badge](https://img.shields.io/badge/1.0-16161d?style=plastic&logo=python&logoColor=fff&label=Vers%C3%A3o)
 
 ![Static Badge](https://img.shields.io/badge/3.14.7-FFD43B?style=plastic&logo=python&logoColor=fff&label=Python&labelColor=306998)
